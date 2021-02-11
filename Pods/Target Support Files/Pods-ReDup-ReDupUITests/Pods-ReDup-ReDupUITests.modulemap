@@ -1,0 +1,6 @@
+framework module Pods_ReDup_ReDupUITests {
+  umbrella header "Pods-ReDup-ReDupUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

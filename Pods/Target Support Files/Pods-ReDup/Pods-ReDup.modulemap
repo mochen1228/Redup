@@ -1,0 +1,6 @@
+framework module Pods_ReDup {
+  umbrella header "Pods-ReDup-umbrella.h"
+
+  export *
+  module * { export * }
+}
